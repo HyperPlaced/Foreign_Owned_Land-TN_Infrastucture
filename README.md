@@ -30,7 +30,8 @@ The goal is to support spatial understanding rather than draw policy conclusions
 ![Spatial Analysis](Preview_Infrastructure2.PNG)
 
 ## Full Project Presentation
-📄 **[Download the full presentation PDF](Foreign_Owned_Land_and_Critical_Infrastructure_Tennessee_Ittig.pdf)**
+ **[Download the full presentation PDF](Foreign_Owned_Land_and_Critical_Infrastructure_Tennessee_Ittig.pdf)**
+
 
 ## Key Skills Demonstrated
 - Spatial data integration and attribute joins
@@ -49,4 +50,3 @@ The goal is to support spatial understanding rather than draw policy conclusions
 - AFIDA data represents agricultural land only and is reported at the county level
 - Parcel-level foreign ownership data is not publicly available
 - Infrastructure locations are generalized and appropriate for academic analysis
-
